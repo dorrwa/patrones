@@ -1,0 +1,2 @@
+# patrones
+Patrones en python
